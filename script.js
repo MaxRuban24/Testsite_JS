@@ -1,27 +1,27 @@
 var database = [
     {
-        username: "masimka",
+        username: "max",
         password: "secret"
     },
     {
-        username: "sambaka",
+        username: "dog",
         password: "123"
     },
     {
-        username: "kisa",
+        username: "cat",
         password: "777"
     }
 ];
 
 var newsFeed = [
     {
-        username: "Boba",
-        timeline: "Uh sha nakachu pivka!"
+        username: "Bob",
+        timeline: "Learning is great!"
     },
 
     {
-        username: "Sashka",
-        timeline: "Vinchik eto moja zhizn!"
+        username: "Alex",
+        timeline: "I like my cat!"
     }
 ];
 
